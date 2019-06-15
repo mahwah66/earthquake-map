@@ -1,0 +1,3 @@
+# Earthquake Map - United States Geological Survey Data for Past 7 Days
+
+[This page](https://mahwah66.github.io/earthquake-map/) shows earthquake location markers colored and sized according to magnitude of each event. The dataset is for all earthquakes in the past 7 days according to the United States Geological Survey (USGS) [GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). Three different base maps are available in this page view, and geological fault lines may be viewed as an additional overlay.
